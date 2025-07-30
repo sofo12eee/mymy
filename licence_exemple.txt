@@ -1,0 +1,11 @@
+# LICENCE EXEMPLE POUR TESTS
+# Cette licence est valide pour 1 an à partir de la date d'activation
+# Format: USER_NAME|EXPIRY_DATE|LICENSE_TYPE|MACHINE_ID
+
+LICENCE_EXEMPLE_TEST|2025-12-31|standard|UNIVERSAL
+
+# Instructions:
+# 1. Copier la ligne ci-dessus (sans le #)
+# 2. Coller dans l'interface de l'application
+# 3. Cliquer sur "Activer la licence"
+# 4. L'application sera opérationnelle avec toutes les optimisations
